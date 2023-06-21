@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://maia-trower.github.io/al-folio/sitemap.xml
+Sitemap: https://maia-trower.github.io/sitemap.xml
