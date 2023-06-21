@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 The Bayes Centre </p>
-    <p>123 47 Potterrow</p>
+    <p> The Bayes Centre </p>
+    <p> 47 Potterrow</p>
     <p> Edinburgh, UK EH8 9BT</p>
 
 news: false  # includes a list of news items
