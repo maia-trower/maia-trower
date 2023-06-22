@@ -19,9 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-PhD candidate [mac-migs](https://www.mac-migs.ac.uk/) CDT 
+[MAC-MIGS](https://www.mac-migs.ac.uk/) PhD candidate studying at the [Maxwell Institute](https://www.maxwell.ac.uk/) in Edinburgh, UK. 
 
-Research: ...
-Supervisors: ...
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests include machine learning and data science, and I am currently working on spectral clustering 
+methods for community detection in complex networks. My supervisor is 
+[Stefan Klus](https://researchportal.hw.ac.uk/en/persons/stefan-klus) (Heriot-Watt University) and my second supervisor 
+is [Des Higham](https://www.maths.ed.ac.uk/~dhigham/) (University of Edinburgh).  
